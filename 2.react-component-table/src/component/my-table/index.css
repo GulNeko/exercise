@@ -1,0 +1,33 @@
+.my_table{
+  width: 600px;
+}
+
+.my_table_thead{
+  height: 50px
+}
+
+.my_table_thead_bgcolor{
+  background-color: #F0F0F0
+}
+
+.my_table_thead_column_wrapper{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.my_table_sort_wrapper{
+  display: flex;
+  flex-direction: column;
+}
+
+.my_table_sort_icon_wrapper{
+  width: 12px; 
+  height: 12px;
+}
+
+.my_table_row_bgcolor{
+  background-color: #FAFAFA;
+  border: 1px solid #F0F0F0;
+  height: 50px;
+}
